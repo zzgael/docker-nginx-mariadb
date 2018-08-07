@@ -1,4 +1,4 @@
-# Docker Machine containing PHP/FPM,  Nginx and MariaDB
+# Docker-compose project containing PHP/FPM,  Nginx and MariaDB
 
 Generated with PHPDocker.io
 
