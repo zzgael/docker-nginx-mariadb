@@ -1,4 +1,4 @@
-# Docker Machine with Nginx and MariaDB
+# Docker Machine containing PHP/FPM,  Nginx and MariaDB
 
 Generated with PHPDocker.io
 
@@ -15,3 +15,7 @@ docker-compose up
 
 All web files goes into the `public` directory.
 Web server is accessible at http://localhost:8040
+
+# Editing php.ini values
+
+Edit the file located in `phpdocker/php-fpm/php-ini-overrides.ini
