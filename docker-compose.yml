@@ -43,3 +43,5 @@ services:
             MYSQL_USER: simplon
             MYSQL_PASSWORD: simplon
             MYSQL_ROOT_PASSWORD: root 
+            PMA_HOST: mariadb
+            PMA_PORT: 3306
