@@ -12,8 +12,14 @@ To start the machine simply use docker-compose
 docker-compose up
 ```
 
+# Web Server
+
 All web files goes into the `public` directory.
 Web server is accessible at http://localhost:8040
+
+# PHPMyAdmin
+
+PHPMyadmin can be accessed at http://localhost:8000
 
 # Editing php.ini values
 
