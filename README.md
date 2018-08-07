@@ -18,4 +18,4 @@ Web server is accessible at http://localhost:8040
 
 # Editing php.ini values
 
-Edit the file located in `phpdocker/php-fpm/php-ini-overrides.ini
+Edit the file located in `phpdocker/php-fpm/php-ini-overrides.ini`
